@@ -1,7 +1,7 @@
 ### Hello, I'm Kaylynn 
 
 
-## I'm a student at CSULB studying computer science
+## I'm a student at CSULB 
 
 - 🌱 I’m currently learning javascript
 - 🥅 2022 Goals: Contribute more to Open Source projects
