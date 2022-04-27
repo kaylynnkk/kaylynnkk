@@ -5,7 +5,6 @@
 
 - 🌱 I’m currently learning javascript
 - 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I enjoy playing video games and reading comics
 
 ### Connect with me:
 
