@@ -3,8 +3,7 @@
 
 ## I'm a student at CSULB 
 
-- 🌱 I’m currently learning javascript
-- 🥅 2022 Goals: Contribute more to Open Source projects
+- 🥅 2023 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
