@@ -29,5 +29,5 @@
 ---
 
 [instagram]: https://instagram.com/kouhaixkk
-[linkedin]: https://linkedin.com/in/kaylynn-khem-kaylynnkk
+[linkedin]: https://linkedin.com/in/kaylynnkhem
 [github]: https://github.com/kaylynnkk
