@@ -1,7 +1,6 @@
 ### Hello, I'm Kaylynn 
 
 
-## I'm a student at CSULB 
 
 - 🥅 2023 Goals: Contribute more to Open Source projects
 
