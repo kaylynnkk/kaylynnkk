@@ -2,7 +2,7 @@
 
 
 
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 
 ### Connect with me:
 
